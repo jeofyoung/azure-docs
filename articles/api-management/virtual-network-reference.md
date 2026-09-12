@@ -61,8 +61,7 @@ NSG rules allowing outbound connectivity to Storage, SQL, and Azure Event Hubs s
 
 ## TLS functionality  
 
-To enable TLS/SSL certificate chain building and validation, the API Management service needs outbound network connectivity to endpoints and ports described in [Azure Certificate Authority details](../security/fundamentals
-/azure-certificate-authority-details.md).
+To enable TLS/SSL certificate chain building and validation, the API Management service needs outbound network connectivity to endpoints and ports described in [Azure Certificate Authority details](../security/fundamentals/azure-certificate-authority-details.md).
 
 ## DNS access
 
